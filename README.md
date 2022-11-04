@@ -1,6 +1,6 @@
 # Bug Report Samples
 
-Below are some Bug Report samples that I wrote while working on previous projects.
+Below are some bug report samples that I wrote while working on previous projects.
 
 ---------------------
 
