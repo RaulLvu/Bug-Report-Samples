@@ -1,6 +1,6 @@
 # Bug Report Samples
 
-Below are some Bug Report sample that I wrote working on previous projects.
+Below are some Bug Report samples that I wrote while working on previous projects.
 
 ---------------------
 
@@ -11,64 +11,64 @@ P1-Hight.
 Login is not working properly.
 
 **Description:**
-When trying to login with a valif user name and password nothing happen.
+When trying to login with a valid username and password nothing happens.
 The user is not logged in and no error message is displayed.
 
 **Steps to reproduce:**
 1) Launch Browser.  
 2) Open URL “https://opensource-demo.orangehrmlive.com”.                                                                    
-3) Provide valid  username.  
-4) Provide valid password.
-5) Click on login button.
+3) Provide a valid username.  
+4) Provide a valid password.
+5) Click on the login button.
 
                                      
                              
 
 **Expected result:**
-User should be able to login and is taken to his profile page.
+The user should be able to login and is taken to his profile page.
 
 **Actual result:**
-User is not logged and no error appears.
+The user is not logged and no error appears.
 
 **Test Data:**
-User:Raul.
-Pass:12345678.
+User: Raul.
+Pass: 12345678.
 
 **Status:**
-New,In Progress,Done,Reopen.
+New, In Progress, Done, Reopen.
 
 -----------------------------------------------
 **Priority and Severity:**
 P3-Medium.
 
 **Title:**
-Error message is not working properly.
+The error message is not working properly.
 
 **Description:**
 The invalid file format error message for invalid photographs is appearing after the upload is complete.
 **Steps to reproduce:**
 1) Launch Browser.  
 2) Open URL '' https://opensource-demo.orangehrmlive.com/web/index.php/auth/login''.                                                                    
-3) Login to orange HRM as Admin user.
+3) Login to orange HRM as an Admin user.
 4) Click on my info tab. 
-5) Click on the photograf at corner on the screen.
-6) cLICK ,,Browse'' and then select a photograf from the relevant path.
-7) Click ,,Upload'' once you have selected the picture. 
+5) Click on the photograph in the corner of the screen.
+6) Click „ Browse” and then select a photograph from the relevant path.
+7) Click „ Upload ” once you have selected the picture. 
                                      
                              
 
 **Expected result:**
-User should be able to see error message when try to upload invalid photographs.
+The user should be able to see an error message when trying to upload invalid photographs.
 
 **Actual result:**
-The  error message do not appear before the user try to upload invalid photographs.
+The error message does not appear before the user tries to upload invalid photographs.
 
 **Test Data:**
 User: Admin.
 Pass: admin123.
 
 **Status:**
-New,In Progress,Done,Reopen.
+New, In Progress, Done, Reopen.
 
 
 
@@ -82,58 +82,59 @@ P2-Hight.
 Edit some fields in personal details is not working.
 
 **Description:**
-When trying to edit some fields in personal details, Admin user can’t edit personal details.
+When trying to edit some fields in personal details, the Admin user can’t edit personal details.
 **Steps to reproduce:**
-1) Login to orange HRM as Admin user. 
+1) Login to orange HRM as an admin user. 
 2) Click on my info tab.
-3) Click on personl details link
-4) Click on edit button.
-5) Edit full name/middle name,last name,licence,expiry date,gender,martial status and nationality.
+3) Click on the personal details link
+4) Click on the edit button.
+5) Edit full name/middle name, last name, license, expiry date, gender, marital status, and nationality.
+
 
 
                                      
                             
 **Expected result:**
-User should be able to edit some fields in personal details.
+The user should be able to edit some fields in personal details.
 
 **Actual result:**
-User is not able to edit some fields in personal details.
+The user is not able to edit some fields in personal details.
 
 **Test Data:**
 User: Admin.
 Pass: admin123.
 
 **Status:**
-New,In Progress,Done,Reopen.
+New, In Progress, Done, Reopen.
 
 -----------------------------------------------------------
 **Priority and Severity:**
 P3-Low.
 
 **Title:**
-Admin user can view contact details in Times New Roman.
+Admin users can view contact details in Times New Roman.
 
 **Description:**
-When Admin user read contact details fields must be in Times New Roman, but the text is in Calibri.
+When the admin user read contact details fields must be in Times New Roman, but the text is in Calibri.
 
 **Steps to reproduce:**
-1) Login to orange HRM as Admin user. 
+1) Login to orange HRM as an Admin user. 
 2) Click on my info tab.
-3) Click on personl details link.
-4) View contact details field in Times New Roman.
+3) Click on the personal details link.
+4) View the contact details field in Times New Roman.
 
                                               
 
 **Expected result:**
-User should be able to read contact details field in Times New Roman.
+The user should be able to read the contact details field in Times New Roman.
 
 **Actual result:**
-Contact details field appear in Calibri.
+The contact details field appears in Calibri.
 
 **Test Data:**
 User: Admin.
 Pass: admin123.
 
 **Status:**
-New,In Progress,Done,Reopen.
+New, In Progress, Done, Reopen.
 
